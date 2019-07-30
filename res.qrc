@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.png</file>
+        <file>mainwindow.cpp</file>
+        <file>binarytek.png</file>
+        <file>qt.png</file>
+        <file>evedropper.png</file>
+        <file>icon.ico</file>
+        <file>plus.png</file>
+    </qresource>
+</RCC>
